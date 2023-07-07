@@ -34,21 +34,31 @@ Provide instructions and examples on how to use your project.
 Include screenshots as necessary.
 
 #Home 
+![Screenshot (217)](https://github.com/rahulyadav826870/Github-s-Issue-page/assets/103634544/24c434cb-677b-4066-8ce5-344d95a1ce06)
+
+#Pagination And Footer
+![Screenshot (218)](https://github.com/rahulyadav826870/Github-s-Issue-page/assets/103634544/369ba02a-80e6-4830-beb1-816a40d88e88)
+
+#Mobile View
+![Screenshot (215)](https://github.com/rahulyadav826870/Github-s-Issue-page/assets/103634544/c1ba9018-186c-4cf1-bf68-1ac7828d87ea)
+
+#Tablet View
+![Screenshot (216)](https://github.com/rahulyadav826870/Github-s-Issue-page/assets/103634544/b72bd4eb-4565-456a-883b-7c80f0f252ff)
 
 
 ## APIs Used
 If your application relies on external APIs, document them and include any necessary links or references.
 
 ## API Endpoints
-In case of Backend Applications provide a list of your API endpoints, methods, brief descriptions, and examples of request/response.
-GET /api/items - retrieve all items
-POST /api/items - create a new item
+https://api.github.com/repos
+GET /api/apple/cups/issue - retrieve all items
+POST /api//apple/cups/pull - retrieve all items
 
 
 ## Technology Stack
-List and provide a brief overview of the technologies used in the project.
-
-- Node.js
-- Express.js
-- MongoDB
-- Other libraries/modules
+List and provide a brief overview of the techno
+logies used in the project.
+-  React
+-  Tailwind
+-  Axios
+-  React-icon

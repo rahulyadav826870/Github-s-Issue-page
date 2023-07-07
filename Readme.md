@@ -1,5 +1,4 @@
-<a href="https://github-s-issue-page.vercel.app/"> Github's Issue Page </a>
-## Introduction
+<h1 ><a href="https://github-s-issue-page.vercel.app/"> Github's Issue Page </a></h1>
 A good UI of github issue page, Responsivness and Pagination.
 
 ## Deplolyed App

@@ -6,6 +6,7 @@ A good UI of github issue page, Responsivness and Pagination.
 https://github-s-issue-page.vercel.app/
 
 ## Video Walkthrough of the project
+https://drive.google.com/file/d/1G7K0kZZ376c-mj-UykWuGpgv5e5XwcXP/view?usp=sharing
 
 ## Features
 List out the key features of your application.

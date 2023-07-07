@@ -1,39 +1,40 @@
-# Project Title :- Github's Issue Page
+<a href="https://github-s-issue-page.vercel.app/"> Github's Issue Page </a>
 ## Introduction
-A brief introduction of your project goes here. You may want to cover the purpose of your project, its core functionality, and what problems it solves.
+A good UI of github issue page, Responsivness and Pagination.
 
 ## Deplolyed App
-https://deployed-site.whatever
+https://github-s-issue-page.vercel.app/
 
 ## Video Walkthrough of the project
 
 ## Features
 List out the key features of your application.
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Responsivness 
+- Pagination
+- Good UI
 
-## design decisions or assumptions
-List your design desissions & assumptions
+
 
 ## Installation
 Detailed instructions on how to install, configure, and get the project running.
 
 ```bash
-npm install my-project
-cd my-project
-npm start
+npm install 
+npm run dev
 ```
 
 ## Usage
 Provide instructions and examples on how to use your project.
+-  To check responsivness with tailwind
+-  To check with pagination
 
-```bash
-# Example
-```
+
 
 Include screenshots as necessary.
+
+#Home 
+
 
 ## APIs Used
 If your application relies on external APIs, document them and include any necessary links or references.
